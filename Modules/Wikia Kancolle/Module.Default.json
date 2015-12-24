@@ -1,0 +1,9 @@
+﻿{
+  "Name": "$projectname$",
+  "ClassName": "$safeprojectname$",
+  "Enabled": true,
+  "ChannelBlacklist": [],
+  "NickBlacklist": [],
+  "Commands": [],
+  "Options": []
+}
